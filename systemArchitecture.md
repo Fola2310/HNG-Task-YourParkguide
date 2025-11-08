@@ -65,3 +65,7 @@ Communication Flow
 •	Reliability: Google Maps API + ARCore provide accurate navigation.
 
 •	Security: Firebase Authentication for secure login and data protection.
+
+Attached here is the userflow link of the product:
+
+https://miro.com/welcomeonboard/NmNNb25ESTN3N0c0TUJoNUh1OWJDSUluL1dsR2ZpbXhrdzk2eHpCMEcvQ1dnTjRRYmxVWTBmbXFuODdpNHlXZ2NBMCtndEdmR1ZOMGl4bUp2WFM1VmhOemM5SVZDb01EbFRCSXIrS28xUFcvaDNSOXp1dFd6cVhmaTBGRkZYK0l0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=822740809066
